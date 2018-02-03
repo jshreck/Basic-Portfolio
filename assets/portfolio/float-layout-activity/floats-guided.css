@@ -70,3 +70,7 @@
         background: #ccc;
         padding: 20px;
   }
+
+  .portfolio-section {
+      position: relative;
+  }
